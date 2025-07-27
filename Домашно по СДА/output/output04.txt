@@ -1,0 +1,5 @@
+Joro 100
+Ani 20
+Boris 20
+Yavor 20
+Ivan 10

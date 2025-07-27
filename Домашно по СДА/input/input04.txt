@@ -1,0 +1,11 @@
+5
+Ivan
+Ani
+Yavor
+Joro
+Boris
+10
+20
+20
+100
+20
